@@ -47,7 +47,7 @@ def twitterreq(url, method, parameters, oauth_keys):
 
 
 def fetchsamples(oauth_keys):
-    url = "https://stream.twitter.com/1.1/statuses/sample.json"
+    url = "https://stream.twitter.com/1.1/statuses/sample.json?language=en"
     parameters = []
     response = twitterreq(url, "GET", parameters, oauth_keys)
     for line in response:
