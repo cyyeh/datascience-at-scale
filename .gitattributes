@@ -9,3 +9,7 @@ slides/BillHowe_4_BigDataSystems.pdf filter=lfs diff=lfs merge=lfs -text
 slides/BillHowe_5_Statistics.pdf filter=lfs diff=lfs merge=lfs -text
 slides/BillHowe_6_MachineLearning_1.pdf filter=lfs diff=lfs merge=lfs -text
 slides/BillHowe_7_MachineLearning_2.pdf filter=lfs diff=lfs merge=lfs -text
+supplemantary/scalable-sql-no-sql.pdf filter=lfs diff=lfs merge=lfs -text
+supplemantary/top-10-data-mining.pdf filter=lfs diff=lfs merge=lfs -text
+supplemantary/data-intenstive[[:space:]]scalable[[:space:]]science.pdf filter=lfs diff=lfs merge=lfs -text
+supplemantary/mapreduce-parallelDBMS.pdf filter=lfs diff=lfs merge=lfs -text
